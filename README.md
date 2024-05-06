@@ -1,3 +1,5 @@
+<img width="63" alt="image" src="https://github.com/michelsander/ListaMunicipiosSmartView/assets/104599995/bc8494cd-ce9d-43cf-b302-8d916fc13900">
+
 # Patrocinadoras
    ### Controle e manutenção dos arquivos das patrocinadoras CEMIG Saúde
 
