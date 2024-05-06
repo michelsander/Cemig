@@ -1,24 +1,20 @@
 <img width="63" alt="image" src="https://github.com/michelsander/ListaMunicipiosSmartView/assets/104599995/bc8494cd-ce9d-43cf-b302-8d916fc13900">
 
-# ListaMunicipiosSmartView
-   ### Projeto para geração de artefatos de consulta e relatório do Totvs Smartview<br>
+# Patrocinadoras
+   ### Controle e manutenção dos arquivos das patrocinadoras CEMIG Saúde
 ![image](https://github.com/michelsander/ListaMunicipiosSmartView/assets/104599995/a6b983ed-57f2-4f05-a401-a53c207d98b9)
 
 # 🥷 Autores / Colaboradores
 
    > <img width="25" alt="image" src="https://github.com/michelsander/ListaMunicipiosSmartView/assets/104599995/580142a7-666c-4ea7-b56f-f8dcd68f161c"><strong> Michel Sander<strong/><br>
-   > 📆Data do Projeto: 05 de Março de 2024<BR>
-   > 🏦Projeto entregue á Empresa [OpusVP](https://opusvp.com.br/)<br>
+   > 📆Data do Projeto: Setembro de 2022<BR>
+   > 🏦Projeto entregue á Empresa CEMIG SAÚDE
    <img width="50" alt="image" src="https://github.com/michelsander/ListaMunicipiosSmartView/assets/104599995/3f43d811-bc27-4fb1-b2f0-bdb5785ac883">[ Meu Linkedin](https://www.linkedin.com/in/michel-sander-11a711176)<br>
 
 
 # Tecnologias utilizadas
 <img width="185" alt="image" src="https://github.com/michelsander/ListaMunicipiosSmartView/assets/104599995/b7295cdc-2d45-40ee-bb43-ea05e2d9d705"><br>
 [Totvs ADVPL-TLPP Language](https://www.totvs.com/blog/developers/advpl/)<br>
-[Totvs PO-UI](https://po-ui.io/)<br>
-<img width="28" alt="image" src="https://github.com/michelsander/ListaMunicipiosSmartView/assets/104599995/f3c6f797-3e3f-4012-8ee8-42428915bd69"> Microsoft Visual Studio Code<br>
-<img width="30" alt="image" src="https://github.com/michelsander/ListaMunicipiosSmartView/assets/104599995/c5dfad07-04f8-4e80-942e-c9fcb37ec74e"> Microsoft SQL Server<br>
-<img width="26" alt="image" src="https://github.com/michelsander/ListaMunicipiosSmartView/assets/104599995/5e5eb30d-ca88-4198-962e-a680e7e8dab8"> Angular PO-UI
 
 ## Documentação do Totvs Smartview 
    > https://tdn.totvs.com/display/public/framework/Smart+View+no+Protheus
